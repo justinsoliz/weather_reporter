@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Weather Reporter</string>
+	<string name="app_name_specify_location">Weather - Specify Location</string>
+	<string name="app_name_view_detail">Weather</string>
+	<string name="app_name_view_saved_locations">Weather - Saved Locations</string>
+	<string name="message_report_unavailable">Weather report unavailable, please check location
+		and try again.</string>
+
+	<!-- view_detail -->
+	<string name="view_location_label">Location:</string>
+	<string name="view_date_label">Date:</string>
+	<string name="view_condition_label">Conditions:</string>
+	<string name="view_forecast_label">Forecast:</string>
+	<string name="view_checkbox_current">Enable severe weather alerts based on current
+		device location?</string>
+	<string name="view_checkbox_specific">Enable severe weather alerts for this location?
+	</string>
+
+	<string name="view_working">Working...</string>
+	<string name="view_get_report">Retrieving weather report</string>
+</resources>
